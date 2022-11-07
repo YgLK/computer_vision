@@ -11,6 +11,7 @@
 | 2   | ✅         |    ✅       | [02_point.ipynb](https://github.com/YgLK/computer_vision/blob/main/lab02/02_point.ipynb) |
 | 3   | ✅         |    ✅       | [03_histogram.ipynb](https://github.com/YgLK/computer_vision/blob/main/lab03/03_histogram.ipynb) |
 | 4   | ✅        |  ❓         | [04_tresholding.ipynb](https://github.com/YgLK/computer_vision/blob/main/lab04/04_thresholding.ipynb) |
+| 5   |  ✅         |  ❓         | [05_resolution.ipynb](https://github.com/YgLK/computer_vision/blob/main/lab05/05_resolution.ipynb) |
 
 
 | No. |  Completed   |  Accepted   |                                                                                               Homework |
@@ -18,3 +19,4 @@
 | 1   | ✅  |  ✅   | [LAB02 - HOMEWORK](https://github.com/YgLK/computer_vision/blob/main/lab02/homework/02_point_HW.ipynb) |
 | 2   | ✅  | ✅    | [LAB03 - HOMEWORK](https://github.com/YgLK/computer_vision/blob/main/lab03/homework/03_histogram_hw.ipynb) |
 | 3   | ❓  |  ❓   | [LAB04 - HOMEWORK](https://github.com/YgLK/computer_vision/blob/main/lab04/homework/04_tresholding_hw.ipynb) |
+| 4   | ❓  |  ❓   | [LAB05 - HOMEWORK](https://github.com/YgLK/computer_vision/blob/main/lab05/homework/05_resolution_hw.ipynb) |
