@@ -14,7 +14,8 @@
 | 4   | ✅        | ✅          | [04_tresholding.ipynb](https://github.com/YgLK/computer_vision/blob/main/lab04/04_thresholding.ipynb) |
 | 5   |  ✅         |  ✅         | [05_resolution.ipynb](https://github.com/YgLK/computer_vision/blob/main/lab05/05_resolution.ipynb) |
 | 6   |  ✅         |  ✅         | [06_context.ipynb](https://github.com/YgLK/computer_vision/blob/main/lab06/06_context.ipynb) |
-| 7   |  ❓         |  ❓         | [07_bilateral.ipynb](https://github.com/YgLK/computer_vision/blob/main/lab07/07_bilateral.ipynb) |
+| 7   |  ✅         |  ✅         | [07_bilateral.ipynb](https://github.com/YgLK/computer_vision/blob/main/lab07/07_bilateral.ipynb) |
+| 8   |  ✅        |  ❓         | [08_Fourier.ipynb](https://github.com/YgLK/computer_vision/blob/main/lab08/08_Fourier.ipynb) |
 
 | No. |  Completed   |  Accepted   |                                                                                               Homework |
 |-----|-----|-----|-------------------------------------------------------------------------------------------------------:|
