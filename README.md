@@ -17,7 +17,10 @@
 | 7   |  ✅         |  ✅         | [07_bilateral.ipynb](https://github.com/YgLK/computer_vision/blob/main/lab07/07_bilateral.ipynb) |
 | 8   |  ✅        |  ✅         | [08_Fourier.ipynb](https://github.com/YgLK/computer_vision/blob/main/lab08/08_Fourier.ipynb) |
 | 9   |   ✅        |   ✅        | [09_Canny.ipynb](https://github.com/YgLK/computer_vision/blob/main/lab09/09_Canny.ipynb) |
-| 10   |   ❓        |   ❓        | [10_morphology.ipynb](https://github.com/YgLK/computer_vision/blob/main/lab10/10_morphology.ipynb) |
+| 10   |   ✅       |   ✅        | [10_morphology.ipynb](https://github.com/YgLK/computer_vision/blob/main/lab10/10_morphology.ipynb) |
+| 11   |   ✅       |   ✅        | [11_Hough.ipynb](https://github.com/YgLK/computer_vision/blob/main/lab11/Hough.ipynb) |
+| 12   |   ✅       |   ✅        | [12_segmentation.ipynb](https://github.com/YgLK/computer_vision/blob/main/lab12/12_segmentation.ipynb) |
+| 13   |   ✅       |   ✅        | [13_ccl.ipynb](https://github.com/YgLK/computer_vision/blob/main/lab13/13_ccl.ipynb) |
 
 
 | No. |  Completed   |  Accepted   |                                                                                               Homework |
@@ -26,5 +29,6 @@
 | 2   | ✅  | ✅    | [LAB03 - HOMEWORK](https://github.com/YgLK/computer_vision/blob/main/lab03/homework/03_histogram_hw.ipynb) |
 | 3   | ❌  |  ❌   | [LAB04 - HOMEWORK](https://github.com/YgLK/computer_vision/blob/main/lab04/homework/04_tresholding_hw.ipynb) |
 | 4   | ❌  |  ❌   | [LAB05 - HOMEWORK](https://github.com/YgLK/computer_vision/blob/main/lab05/homework/05_resolution_hw.ipynb) |
-| 5.1   | ❓  |  ❓   | [LAB06 - HOMEWORK 1](https://github.com/YgLK/computer_vision/blob/main/lab06/homework/06_context_hw1.ipynb) |
-| 5.2   | ❓  |  ❓   | [LAB06 - HOMEWORK 2](https://github.com/YgLK/computer_vision/blob/main/lab06/homework/06_context_hw2.ipynb) |
+| 5.1   |❌  |  ❌   | [LAB06 - HOMEWORK 1](https://github.com/YgLK/computer_vision/blob/main/lab06/homework/06_context_hw1.ipynb) |
+| 5.2   | ❌  | ❌  | [LAB06 - HOMEWORK 2](https://github.com/YgLK/computer_vision/blob/main/lab06/homework/06_context_hw2.ipynb) |
+...
