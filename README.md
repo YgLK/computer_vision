@@ -18,7 +18,7 @@
 | 8   |  ✅        |  ✅         | [08_Fourier.ipynb](https://github.com/YgLK/computer_vision/blob/main/lab08/08_Fourier.ipynb) |
 | 9   |   ✅        |   ✅        | [09_Canny.ipynb](https://github.com/YgLK/computer_vision/blob/main/lab09/09_Canny.ipynb) |
 | 10   |   ✅       |   ✅        | [10_morphology.ipynb](https://github.com/YgLK/computer_vision/blob/main/lab10/10_morphology.ipynb) |
-| 11   |   ✅       |   ✅        | [11_Hough.ipynb](https://github.com/YgLK/computer_vision/blob/main/lab11/Hough.ipynb) |
+| 11   |   ✅       |   ✅        | [11_Hough.ipynb](https://github.com/YgLK/computer_vision/blob/main/lab11/11_Hough.ipynb) |
 | 12   |   ✅       |   ✅        | [12_segmentation.ipynb](https://github.com/YgLK/computer_vision/blob/main/lab12/12_segmentation.ipynb) |
 | 13   |   ✅       |   ✅        | [13_ccl.ipynb](https://github.com/YgLK/computer_vision/blob/main/lab13/13_ccl.ipynb) |
 
